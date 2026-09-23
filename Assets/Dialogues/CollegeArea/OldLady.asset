@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e20ce9f6737e6e845b50655fcc50fb57, type: 3}
+  m_Name: OldLady
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  speakerName: Old Lady
+  lines:
+  - This area is dedicated to remembering Sir Linus Torvalds.
+  - He was more than just the founder of the Open Source Magic Academy....
+  - ....he was a great thinker and inventor.
+  - He created Git, the version control system used in almost every software project
+    in the world.
+  - But Git wasn't even his greatest invention, it was just a side project he made....
+  - ....so that he could manage his main project -- THE LINUX KERNEL.
+  - He created the Linux kernel, which is used by millions of devices today.
+  - The LInux kernel is used to run millions of servers and electronic devices. Your
+    TV, fridge, toaster, everything.

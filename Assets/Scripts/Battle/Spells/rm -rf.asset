@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d53b969d59694e340a4e0932c0cd5ce4, type: 3}
+  m_Name: rm -rf
+  m_EditorClassIdentifier: Assembly-CSharp::Spell
+  spellName: sudo rm -rf /
+  description: The final forbidden spell, powerful enough to break Lord Coldemort's
+    curse and free the world's software.
+  spellAudio: {fileID: 8300000, guid: 3d10509648262640294517659d628914, type: 3}
+  educationalDescription: Executes a command with elevated privileges that recursively
+    removes files and directories.
+  type: 0
+  power: 5000
+  accuracy: 1
