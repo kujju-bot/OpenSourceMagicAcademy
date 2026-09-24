@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e20ce9f6737e6e845b50655fcc50fb57, type: 3}
   m_Name: DumbleDoorInteriorPermaYao
   m_EditorClassIdentifier: Assembly-CSharp::DialogueData
-  speakerName: Humbledor
+  speakerName: Humbledore
   lines:
   - We are safe for now, but the villain is getting stronger.
   - This is the Map of Torvalds.
