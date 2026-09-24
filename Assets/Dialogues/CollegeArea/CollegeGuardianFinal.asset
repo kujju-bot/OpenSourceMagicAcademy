@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e20ce9f6737e6e845b50655fcc50fb57, type: 3}
   m_Name: CollegeGuardianFinal
   m_EditorClassIdentifier: Assembly-CSharp::DialogueData
-  speakerName: Sprit of Torvalds
+  speakerName: Spirit of Torvalds
   lines:
   - You feel a presence within the statue....
   - ....best to leave it unbothered for now.
